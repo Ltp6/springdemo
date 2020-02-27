@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @ProjectName: springdemo
- * @Description: TODO
+ * @Description: 配置包扫描路径
  * @Author: Ltp
  * @Date: 2020/2/27 16:04
  */
