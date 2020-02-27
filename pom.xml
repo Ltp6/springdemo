@@ -20,7 +20,7 @@
         </plugins>
     </build>
     <properties>
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>5.2.4.RELEASE</spring.version>
         <!--内嵌Tomcat9.0.x无法启动-->
         <tomcat.version>8.5.50</tomcat.version>
     </properties>
